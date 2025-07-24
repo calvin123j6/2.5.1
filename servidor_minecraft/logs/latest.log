@@ -10553,3 +10553,21 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [24Jul2025 20:53:19.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [24Jul2025 20:53:19.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: m<--[HERE]
 [24Jul2025 21:02:21.016] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-248, y=72, z=-23} BlockPos{x=-248, y=72, z=-22}
+[24Jul2025 21:18:39.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[24Jul2025 21:18:39.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: k<--[HERE]
+[24Jul2025 21:27:35.755] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 lost connection: Disconnected
+[24Jul2025 21:27:35.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 left the game
+[24Jul2025 21:27:35.863] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jos3enriq lost connection: Disconnected
+[24Jul2025 21:27:35.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq left the game
+[24Jul2025 21:27:41.833] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jos3enriq[/127.92.5.198:46227] logged in with entity id 28824 at (-413.30000001192093, 61.3684574807408, 70.42405557367186)
+[24Jul2025 21:27:41.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq joined the game
+[24Jul2025 21:27:41.853] [Server thread/INFO] [Jade/]: Syncing config to Jos3enriq (27cceb0a-89c4-3ca8-a9d5-ec610bc24b46)
+[24Jul2025 21:27:44.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[24Jul2025 21:27:44.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: j<--[HERE]
+[24Jul2025 21:27:50.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq drowned
+[24Jul2025 21:27:51.254] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.170.19.127:55003] logged in with entity id 29167 at (-401.50356144140676, 63.49520087700592, 91.87064862728894)
+[24Jul2025 21:27:51.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
+[24Jul2025 21:27:51.389] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
+[24Jul2025 21:28:22.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[24Jul2025 21:28:22.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: j<--[HERE]
+[24Jul2025 21:29:48.470] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element mowziesmobs:wrought_chamber took 4 ms
