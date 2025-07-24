@@ -10550,3 +10550,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [24Jul2025 20:32:34.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Brigg (vehicle of kevin123j2) moved wrongly! 0.6685851712968542
 [24Jul2025 20:32:34.857] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Brigg (vehicle of kevin123j2) moved wrongly! 1.0486010448935303
 [24Jul2025 20:46:48.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 has made the advancement [Would you Like to Know More?]
+[24Jul2025 20:53:19.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[24Jul2025 20:53:19.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: m<--[HERE]
