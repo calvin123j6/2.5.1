@@ -1487,5 +1487,11 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2025-07-24 20:46:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
