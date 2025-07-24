@@ -10490,3 +10490,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [24Jul2025 19:39:05.731] [Server thread/WARN] [workers/]: A new version of Villager Workers is available!
 [24Jul2025 19:39:05.731] [Server thread/WARN] [workers/]: Download the new update here: https://www.curseforge.com/minecraft/mc-mods/workers/files
 [24Jul2025 19:39:12.899] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@9c2296e[id=<null>,name=Jos3enriq,properties={},legacy=false] (/127.92.5.198:56511) lost connection: Disconnected
+[24Jul2025 19:51:35.582] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3f738828[id=<null>,name=kevin123j2,properties={},legacy=false] (/127.170.19.127:40483) lost connection: Disconnected
+[24Jul2025 19:52:15.482] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@64168b64[id=<null>,name=kevin123j2,properties={},legacy=false] (/127.170.19.127:43223) lost connection: Disconnected
+[24Jul2025 19:58:17.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[24Jul2025 19:58:17.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: k<--[HERE]
