@@ -10723,3 +10723,12 @@ Caused by: java.lang.NullPointerException
 [24Jul2025 22:39:32.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 moved wrongly!
 [24Jul2025 22:42:13.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was shot by Skeleton
 [24Jul2025 22:42:29.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was shot by Skeleton
+[24Jul2025 22:44:42.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Spider
+[24Jul2025 22:45:48.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 moved wrongly!
+[24Jul2025 22:48:05.210] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 moved wrongly!
+[24Jul2025 22:48:51.020] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jos3enriq moved wrongly!
+[24Jul2025 22:49:07.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 moved wrongly!
+[24Jul2025 22:49:56.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[24Jul2025 22:49:56.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gn<--[HERE]
+[24Jul2025 22:49:57.661] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@14ba86dc[id=<null>,name=davisdrt,properties={},legacy=false] (/127.215.198.66:40727) lost connection: Disconnected
+[24Jul2025 22:50:29.768] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7dd27a68[id=<null>,name=davisdrt,properties={},legacy=false] (/127.215.198.66:39775) lost connection: Disconnected
