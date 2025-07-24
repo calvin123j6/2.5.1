@@ -10809,3 +10809,10 @@ Caused by: java.lang.NullPointerException
 [24Jul2025 23:37:52.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Bulldrogioth
 [24Jul2025 23:38:11.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Bulldrogioth
 [24Jul2025 23:44:03.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Nightmare Stalker
+[24Jul2025 23:46:23.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Nightmare Stalker
+[24Jul2025 23:47:03.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 withered away whilst fighting Jos3enriq
+[24Jul2025 23:47:03.520] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[24Jul2025 23:47:03.520] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 15 is dual wielding: false
+[24Jul2025 23:47:03.520] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[24Jul2025 23:47:03.521] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[24Jul2025 23:47:03.521] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 3 | client: 3
