@@ -10732,3 +10732,17 @@ Caused by: java.lang.NullPointerException
 [24Jul2025 22:49:56.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gn<--[HERE]
 [24Jul2025 22:49:57.661] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@14ba86dc[id=<null>,name=davisdrt,properties={},legacy=false] (/127.215.198.66:40727) lost connection: Disconnected
 [24Jul2025 22:50:29.768] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7dd27a68[id=<null>,name=davisdrt,properties={},legacy=false] (/127.215.198.66:39775) lost connection: Disconnected
+[24Jul2025 22:55:00.759] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 lost connection: Timed out
+[24Jul2025 22:55:00.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 left the game
+[24Jul2025 22:55:02.258] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jos3enriq lost connection: Disconnected
+[24Jul2025 22:55:02.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq left the game
+[24Jul2025 22:55:06.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[24Jul2025 22:55:06.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: h<--[HERE]
+[24Jul2025 22:55:08.027] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.170.19.127:33457] logged in with entity id 52043 at (-418.4869650637921, -20.0, 152.662710451769)
+[24Jul2025 22:55:08.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
+[24Jul2025 22:55:08.058] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
+[24Jul2025 22:55:40.240] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jos3enriq[/127.92.5.198:49579] logged in with entity id 52377 at (-420.87267486907524, -20.0, 147.05674108388646)
+[24Jul2025 22:55:40.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq joined the game
+[24Jul2025 22:55:40.325] [Server thread/INFO] [Jade/]: Syncing config to Jos3enriq (27cceb0a-89c4-3ca8-a9d5-ec610bc24b46)
+[24Jul2025 23:03:22.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jos3enriq moved wrongly!
+[24Jul2025 23:03:22.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was shot by Skeleton
