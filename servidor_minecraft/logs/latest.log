@@ -10696,3 +10696,18 @@ net.minecraft.ReportedException: Container click
 Caused by: java.lang.NullPointerException
 [24Jul2025 21:43:35.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [24Jul2025 21:43:35.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: h<--[HERE]
+[24Jul2025 21:53:04.456] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Enid'/28999, l='ServerLevel[world]', x=-317.65, y=67.00, z=-29.43] died, message: 'Enid was slain by The Moonflower'
+[24Jul2025 21:53:04.457] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Enid'/28999, l='ServerLevel[world]', x=-317.65, y=67.00, z=-29.43] died: Enid was slain by The Moonflower
+[24Jul2025 21:54:11.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[24Jul2025 21:54:11.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: j<--[HERE]
+[24Jul2025 22:04:48.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[24Jul2025 22:04:48.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: k<--[HERE]
+[24Jul2025 22:07:17.396] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Allan'/36720, l='ServerLevel[world]', x=-557.39, y=64.00, z=417.00] died, message: 'Allan liquified to Fanta juice'
+[24Jul2025 22:07:17.396] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Allan'/36720, l='ServerLevel[world]', x=-557.39, y=64.00, z=417.00] died: Allan liquified to Fanta juice
+[24Jul2025 22:14:37.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[24Jul2025 22:14:37.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: g<--[HERE]
+[24Jul2025 22:21:08.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Troll
+[24Jul2025 22:23:50.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[24Jul2025 22:23:50.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: v<--[HERE]
+[24Jul2025 22:30:03.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was shot by Skeleton
+[24Jul2025 22:31:15.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was shot by Skeleton
