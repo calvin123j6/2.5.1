@@ -303,6 +303,7 @@
       "minecraft:dripstone_caves": "2025-01-18 20:41:29 +0000",
       "environmental:environmental:blossom_valleys": "2025-01-20 22:37:01 +0000",
       "environmental:environmental:snowy_pine_barrens": "2025-01-17 20:49:16 +0000",
+      "atmospheric:atmospheric:rainforest_basin": "2025-07-24 20:15:17 +0000",
       "atmospheric:atmospheric:rainforest": "2025-02-07 02:09:31 +0000",
       "minecraft:swamp": "2025-01-09 18:28:18 +0000",
       "minecraft:grove": "2025-01-18 20:00:45 +0000",
@@ -518,7 +519,8 @@
       "locate_shipwreck": "2025-01-08 20:44:03 +0000",
       "locate_underwater_fossil": "2025-01-10 02:31:31 +0000",
       "locate_underwater_small_ruins": "2025-01-08 16:30:10 +0000",
-      "locate_ruin_cold": "2025-01-08 15:25:32 +0000"
+      "locate_ruin_cold": "2025-01-08 15:25:32 +0000",
+      "locate_underwater_warm_small_ruins": "2025-07-24 20:21:56 +0000"
     },
     "done": false
   },
@@ -717,6 +719,7 @@
       "entered_tower_of_the_undead": "2025-01-09 18:15:30 +0000",
       "entered_stables": "2025-01-08 19:07:22 +0000",
       "entered_pirate_ship": "2025-01-12 17:53:44 +0000",
+      "entered_fishing_ship": "2025-07-24 20:20:48 +0000",
       "entered_deep_crypt": "2025-01-16 01:40:28 +0000",
       "entered_druid_circle": "2025-01-17 00:31:42 +0000",
       "entered_castle": "2025-01-24 21:16:47 +0000",
@@ -1472,15 +1475,15 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/banana": {
-    "criteria": {
-      "banana": "2025-02-07 20:49:58 +0000"
-    },
-    "done": true
-  },
   "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
     "criteria": {
       "leafcutter_ant_pupa": "2025-02-07 20:39:49 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-02-07 20:49:58 +0000"
     },
     "done": true
   },
